@@ -1,4 +1,4 @@
-##Titanic Challenge
+## Titanic Challenge
 
 
 This is a binary classification task where i had to find if a traveler in
